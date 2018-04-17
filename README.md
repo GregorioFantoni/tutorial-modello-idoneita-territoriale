@@ -36,7 +36,7 @@ una volta individuate gli estremi di adattabilità si può procedere alla costru
 fase 2 esempio
 --------------
 
-![pictures of graph](C:/Users/Fabio/Desktop/Grego/università/Magistrale/Corso_R/immagini-tutorial/MAT_avium.jpg)
+![pictures of graph](https://github.com/GregorioFantoni/tutorial-modello-idoneita-territoriale/blob/master/MAT_avium.jpg)
 
 questo grafico mostra come variano le temperature medie annuali (MAT) necessarie alla crescita del ciliegio (Prunus avium). (perfettamente idonee tra 7 e 12 °C mentre ha valori intermedi tra 5 e 7 °C e 12 e 15 °C).
 
@@ -48,7 +48,7 @@ gli strati informativi in formato vettoriale o raster possono essere reperiti da
 fase 3 esempio
 --------------
 
-![pictures of MAT](C:/Users/Fabio/Desktop/Grego/università/Magistrale/Corso_R/immagini-tutorial/MAR.jpg) immagine delle temperature medie annuali del Valdarno Superiore
+![pictures of MAT](https://github.com/GregorioFantoni/tutorial-modello-idoneita-territoriale/blob/master/MAR.jpg) immagine delle temperature medie annuali del Valdarno Superiore
 
 fase 4
 ------
